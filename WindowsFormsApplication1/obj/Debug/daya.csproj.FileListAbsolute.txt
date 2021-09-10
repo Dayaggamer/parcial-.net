@@ -1,0 +1,3 @@
+d:\documentos\visual studio 2015\Projects\taller_julio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\documentos\visual studio 2015\Projects\taller_julio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\documentos\visual studio 2015\Projects\taller_julio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
